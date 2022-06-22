@@ -19,7 +19,7 @@ print("pay =", pay)
 #looks like in order to concat strings and variables with python you have to use commas? 
 #used [print("pay =", pay, c)]  as a test case for my comma experiment. Yes that works and Python automatically adds spaces which is nice
 
-import math
+# import math - don't need math since I'm not going to .floor x {rounds to 0 anyway}
 # some further experiements with variables
 # declare x as 0.6, now 0.6 is stored
 x = 0.6
