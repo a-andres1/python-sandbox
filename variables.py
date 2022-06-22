@@ -29,5 +29,8 @@ print ("x is",x)
 # because x has not been update yet since everthing on the RIGTH of the assignment statement aka (=), the "x" on the right will be 0.6 still
 x = 3.9 * x * ( 1 - x )
 # x should now be 0.936
-print ("now x is", math.floor(x * 100)/100.00)
+print ("now x is", x)
 # update after running code 1.) yes python automatically adds spaces, cool. 2.) python didn't round, but the answer is 0.9359(repeating) so, does python floor something? 
+# i had to import math
+# using [math.floor(x * 100)/100.0)] rounds it to two decimal places. So, not what we're looking for
+# looks like you need to write a function to round down numbers. Will play around with that later. 
