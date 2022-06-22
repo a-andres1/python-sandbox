@@ -19,6 +19,7 @@ print("pay =", pay)
 #looks like in order to concat strings and variables with python you have to use commas? 
 #used [print("pay =", pay, c)]  as a test case for my comma experiment. Yes that works and Python automatically adds spaces which is nice
 
+import math
 # some further experiements with variables
 # declare x as 0.6, now 0.6 is stored
 x = 0.6
@@ -28,5 +29,5 @@ print ("x is",x)
 # because x has not been update yet since everthing on the RIGTH of the assignment statement aka (=), the "x" on the right will be 0.6 still
 x = 3.9 * x * ( 1 - x )
 # x should now be 0.936
-print ("now x is", x)
+print ("now x is", math.floor(x * 100)/100.00)
 # update after running code 1.) yes python automatically adds spaces, cool. 2.) python didn't round, but the answer is 0.9359(repeating) so, does python floor something? 
