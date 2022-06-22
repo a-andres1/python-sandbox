@@ -21,6 +21,17 @@
 - it's the (=) sign. (=) means "assign this to something. 
 - "arrow nature"  x = do this first OR x -> things over here will be computed THEN (x) will be changed
 
+```
+{
+    <!-- start here -->
+    x = 0.6
+    <!-- have python run this -->
+    x = 3.9 * x * ( 1 - x)
+    <!-- this should be the output -->
+    x = 0.936
+}
+```
+
 
 
 
