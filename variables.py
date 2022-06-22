@@ -25,5 +25,8 @@ x = 0.6
 # here x will be 0.6
 # i didn't add a space this time, wonder if that changes the output in the terminal
 print ("x is",x)
-# because x has not been 
+# because x has not been update yet since everthing on the RIGTH of the assignment statement aka (=), the "x" on the right will be 0.6 still
 x = 3.9 * x * ( 1 - x )
+# x should now be 0.936
+print ("now x is", x)
+# update after running code 1.) yes python automatically adds spaces, cool. 2.) python didn't round, but the answer is 0.9359(repeating) so, does python floor something? 
