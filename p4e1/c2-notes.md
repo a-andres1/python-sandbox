@@ -1,4 +1,4 @@
-# Chapter 2
+# Chapter 2: Variables, Expressions, and Statements 
 
 ## The building blocks of Python: Constants, Reserved words, and Variables
 
