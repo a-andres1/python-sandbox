@@ -15,6 +15,9 @@ hours = 35
 rate = 12.50
 pay = a * b
 print("pay =", pay)
+# my first attempt to print types
+ty = type(pay)
+print(ty)
 #meaningful variables doesn't mean that python understands payroll....lol. 
 #looks like in order to concat strings and variables with python you have to use commas? 
 #used [print("pay =", pay, c)]  as a test case for my comma experiment. Yes that works and Python automatically adds spaces which is nice
@@ -26,6 +29,8 @@ x = 0.6
 # here x will be 0.6
 # i didn't add a space this time, wonder if that changes the output in the terminal
 print ("x is",x)
+# working out how to print types
+print (type(x))
 # because x has not been update yet since everthing on the RIGTH of the assignment statement aka (=), the "x" on the right will be 0.6 still
 x = 3.9 * x * ( 1 - x )
 # x should now be 0.936
