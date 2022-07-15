@@ -32,6 +32,20 @@
 }
 ```
 
+## Exercises
 
+There are five exercises at the end of the chapter I'm going to give a try. 
+
+### Exercise 1
+
+
+
+### Exercise 2
+
+### Exercise 3
+
+### Exercise 4
+
+### Exercise 5
 
 
