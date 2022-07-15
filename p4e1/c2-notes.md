@@ -48,12 +48,18 @@ Easy enough! A big thanks to W3 schools, as always.
 ### Exercise 3
 
 - Write a program to prompt the user for hours and rate per hour to compute gross pay.
+
 Some math this time. Still think it will be mostly straight forward. (this is fun, like Node, but easier?)
 That was a fun one! Python is nice because I can just wrap things in <int> or <str> and it will convert them. 
 Learned that one because the inputs were originally <str> and I needed <int> to do the math. And also learned you can't concat <int>, you must convert to <str> to concat. Which python makes very easy! 
 
+~just found out this won't work with decimals, will return. Or I guess I need to just use a float? I'll check that out~
+
 
 ### Exercise 4
+
+
+
 
 ### Exercise 5
 
