@@ -38,7 +38,7 @@ There are five exercises at the end of the chapter I'm going to give a try.
 
 ### Exercise 1
 
-
+- Write a program that uses input to prompt a user for their name and then welcomes them.
 
 ### Exercise 2
 
