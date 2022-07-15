@@ -8,9 +8,9 @@ print("Whaddup, " + inp)
 print("What is your name?")
 name = input()
 print("How much do you make per hour?")
-rate = int(input())
+rate = float(input())
 print("How many hours did you work?")
-hours = int(input())
+hours = float(input())
 
 total_pay = round(hours * rate)
 
