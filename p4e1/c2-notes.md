@@ -55,6 +55,7 @@ Learned that one because the inputs were originally <str> and I needed <int> to 
 
 ~just found out this won't work with decimals, will return. Or I guess I need to just use a float? I'll check that out~
 
+<float> worked out just fine. Maybe I should just stick to python. Or maybe it's just the beginning so everything is easy! It's like 99.9% that one. But I'll enjoy it while it lasts. 
 
 ### Exercise 4
 
