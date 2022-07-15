@@ -38,17 +38,20 @@ There are five exercises at the end of the chapter I'm going to give a try.
 
 ### Exercise 1
 
+Hmm. What was exercise 1? I'll have to go find it!
+
+### Exercise 2
+
 - Write a program that uses input to prompt a user for their name and then welcomes them.
 Easy enough! A big thanks to W3 schools, as always. 
 
-### Exercise 2
+### Exercise 3
 
 - Write a program to prompt the user for hours and rate per hour to compute gross pay.
 Some math this time. Still think it will be mostly straight forward. (this is fun, like Node, but easier?)
 That was a fun one! Python is nice because I can just wrap things in <int> or <str> and it will convert them. 
 Learned that one because the inputs were originally <str> and I needed <int> to do the math. And also learned you can't concat <int>, you must convert to <str> to concat. Which python makes very easy! 
 
-### Exercise 3
 
 ### Exercise 4
 
