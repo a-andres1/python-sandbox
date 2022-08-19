@@ -66,6 +66,8 @@ Learned that one because the inputs were originally <str> and I needed <int> to 
 
     For each of the following expressions, write the value of the expression and the type (of the value of the expression).
 
+Honestly, this one was pretty straightforward. Just wanted to do some math and look at types. 
+
 
 ### Exercise 5
 
