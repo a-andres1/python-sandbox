@@ -28,7 +28,7 @@ print(ty)
 x = 0.6
 # here x will be 0.6
 # i didn't add a space this time, wonder if that changes the output in the terminal
-print ("x is",x)
+print ("x is ",x)
 # working out how to print types
 print (type(x))
 # because x has not been update yet since everthing on the RIGTH of the assignment statement aka (=), the "x" on the right will be 0.6 still
