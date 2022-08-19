@@ -17,4 +17,21 @@ total_pay = round(hours * rate)
 print("Hey, " + name + "! You worked " + str(hours) +
       " hours and made $" + str(total_pay) + ".")
 
-# exercise 4 -
+# exercise 4 - getting into expressions
+
+width = 17
+height = 12.0
+
+half_w = width//2
+
+half_w_dec = width/2.0
+
+third_height = height/3
+
+math = 1 + 2 * 5
+
+print("Divided by 2 = ", half_w)
+print("Divided by decimal = ", half_w_dec)
+print("Height Divided by 3 = ", third_height)
+print("Some operators and numbers = ", math)
+print("Types: ", type(half_w), type(half_w_dec), type(third_height), type(math))
