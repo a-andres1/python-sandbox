@@ -35,3 +35,13 @@ print("Divided by decimal = ", half_w_dec)
 print("Height Divided by 3 = ", third_height)
 print("Some operators and numbers = ", math)
 print("Types: ", type(half_w), type(half_w_dec), type(third_height), type(math))
+
+#exercise 5 - Write a program which prompts the user for a Celsius temperature, convert the temperature to Fahrenheit, and print out the converted temperature.
+print("What is the temperatur in Celsius?")
+c_temp = input()
+
+convert = float(c_temp) * (9/5) + 32
+
+print("The temperatur in Fahrenheit it: ", convert)
+
+
