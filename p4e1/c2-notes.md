@@ -70,5 +70,9 @@ Honestly, this one was pretty straightforward. Just wanted to do some math and l
 
 
 ### Exercise 5
+ - Write a program which prompts the user for a Celsius temperature, convert the temperature to Fahrenheit, and print out the converted temperature.
 
+ This one will take a little bit longer, just because I need to google the conversion from Celcius to Fahrenheit. 
+ Let's see how long it takes!
+ 
 
