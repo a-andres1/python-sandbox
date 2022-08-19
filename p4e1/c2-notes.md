@@ -74,5 +74,6 @@ Honestly, this one was pretty straightforward. Just wanted to do some math and l
 
  This one will take a little bit longer, just because I need to google the conversion from Celcius to Fahrenheit. 
  Let's see how long it takes!
- 
 
+
+Nice and straight forward. Looks like it took me... about 5 minutes. Just needed to make sure I had the parentheses in the correct spot and it was good to go. I enjoy formatting all of these things. Python is like using Node really, but I like it a little better. No need for (;) at the end of everything. But the indentations are absolutely vital! 
