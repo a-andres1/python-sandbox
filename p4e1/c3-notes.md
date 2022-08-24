@@ -29,3 +29,33 @@ Apparently you aren't supposed to use the TAB key, but I have been. Which of cou
 ### Booleans
 - Booleans ask a question and produce a yes/no result which is used to control program flow
 - Booleans using comparison operators evaluate to ```True, False``` or Yes/No. 
+
+### Nested Decisions
+
+```
+x = 42
+if x > 1 :
+    print("More than 1")
+    <!-- nested if statement, can only be reached through the first block, must be yes -->
+    if x < 100 :
+        print("Less than 100")
+print('all done')
+
+
+```
+
+### If/Then/Else
+Two-way decisions - only choose one path
+
+```
+x = 4 
+if x > 2 :
+    print('Bigger')
+else :
+    print('smaller')
+
+print('all done')
+
+```
+
+```if/else``` statements have 1 scope - indentation is the same
