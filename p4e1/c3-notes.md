@@ -65,3 +65,36 @@ print('all done')
 ## More Complex Conditional Statements
 
 ### The "Multi-Way" Branch - if/elif/else
+
+!! Order matters for ```if/elif``` statements because if the first one is true, the block will jump straight to the end. It will not check your ```elif``` statements. !!
+
+```
+x = 5
+<!-- false -->
+if x < 2 :
+    print('small')
+<!-- true -->
+elif x < 10 :
+    print('medium')
+<!-- does not run -->
+else :
+    print('large')
+<!-- will run because it's not conditional -->
+print('All done')
+
+```
+
+Options for multi-way:
+- No else 
+    - Means somethings may not run (no catch all)
+- Many elifs
+    - Must be very careful with how you write them
+
+Traceback: determine the origin of an exception/problem in your code. 
+
+### Try/Except structure
+- Surround a dangerous section of code with ```try``` / ```except ``` 
+- If the code in the ```try``` works, skip the ```except```
+- If the code in the ```try``` fails, run the ```except``` section
+
+```try``` /```except``` are for anticipating user errors
