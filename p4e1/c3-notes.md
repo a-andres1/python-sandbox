@@ -98,3 +98,16 @@ Traceback: determine the origin of an exception/problem in your code.
 - If the code in the ```try``` fails, run the ```except``` section
 
 ```try``` /```except``` are for anticipating user errors
+
+- The ```except``` blocks only work in case of errors. Be careful not to overuse it. 
+- Whatever line "blows up" is the last line that is printed. 
+- Most of the time, wrap user inputs in ```try```'s 
+
+
+## Exercises
+### Exercise 1
+ Rewrite your pay computation to give the employee 1.5 times the hourly rate for hours worked above 40 hours.
+ 
+### Exercise 2
+
+### Exercise 3
