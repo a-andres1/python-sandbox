@@ -46,6 +46,7 @@ print('all done')
 
 ### If/Then/Else
 Two-way decisions - only choose one path
+```if/else``` statements have 1 scope - indentation is the same  
 
 ```
 x = 4 
@@ -58,4 +59,9 @@ print('all done')
 
 ```
 
-```if/else``` statements have 1 scope - indentation is the same
+
+
+
+## More Complex Conditional Statements
+
+### The "Multi-Way" Branch - if/elif/else
