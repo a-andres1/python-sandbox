@@ -44,5 +44,24 @@ print("Hey, " + name + "! You worked " + str(hours) +
       " hours and made $" + str(total_pay) + ".")
 
 
+# This is what they were looking for. I'll come back later and rewrite my code
+hrs = input("Enter Hours:")
+h = float(hrs)
+rate = input("Pay rate?")
+r= float(rate)
+
+
+# conditional - works just fine!
+if h <= 40 :
+    total_pay = round(h * r)
+else :
+    if h > 40 :
+        overtime = h - 40
+        base_pay = (40 * r)
+        overtime_pay = (overtime * (r * 1.5))
+        total_pay = (overtime_pay + base_pay)
+
+print(total_pay)
+
 
 
